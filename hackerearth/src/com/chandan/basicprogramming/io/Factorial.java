@@ -1,4 +1,9 @@
 package com.chandan.basicprogramming.io;
+/*
+ * find the factorial of a number from 1 - 10.
+ * 
+ * 
+ */
 
 import java.io.BufferedReader;
 import java.io.IOException;
