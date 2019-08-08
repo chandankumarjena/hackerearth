@@ -1,4 +1,20 @@
 package com.chandan.basicprogramming.io;
+/* In a railway coach there are 108 number of seat with 9 block.
+ * Every block consists of 12 seats And each seat status like 
+ * WS - Window Seat.
+ * MS - Middle Seat.
+ * AS - Arriel Seat.
+ * You are given a seat number and you have to find the opposite seat
+ * number with its status. 
+ * 
+ * Example:- 
+ * 1 2 3 4 5 6 
+ * 12 11 10 9 8 7
+ * 
+ * input 3 
+ * output 11 MS
+ * 
+ * */
 
 import java.io.BufferedReader;
 import java.io.IOException;
