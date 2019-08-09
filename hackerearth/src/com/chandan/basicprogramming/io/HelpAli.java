@@ -29,13 +29,13 @@ public class HelpAli {
 					|| (array[2] == 'O')
 					|| (array[2] == 'U')
 					|| (array[2] == 'Y')) {
-				System.out.println("INVALID");
+				System.out.println("invalid");
 			} else {
-				System.out.println("VALID");
+				System.out.println("valid");
 			}
 			
 		} else {
-			System.out.print("INVALID");
+			System.out.print("invalid");
 		}
 		
 
