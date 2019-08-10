@@ -25,6 +25,7 @@ public class LiftQueries {
 		//numer of test cases
 		while (testCase -- > 0) {
 			int floorNumber = Integer.parseInt(bufferedReader.readLine());
+			//find absolute
 			int p = Math.abs(a-floorNumber);
 			int q = Math.abs(b-floorNumber);
 			if (p <= q) {

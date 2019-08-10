@@ -10,6 +10,7 @@ public class BookISBN {
 		// TODO Auto-generated method stub
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 		char []array = bufferedReader.readLine().toCharArray();
+		//10 digit
 		if(array.length == 10) {
 			int total = 0;
 			for(int i = 0; i < 10; i++) {
