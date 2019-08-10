@@ -22,6 +22,7 @@ public class LiftQueries {
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 		int testCase = Integer.parseInt(bufferedReader.readLine());
 		int a = 0, b = 7;
+		//numer of test cases
 		while (testCase -- > 0) {
 			int floorNumber = Integer.parseInt(bufferedReader.readLine());
 			int p = Math.abs(a-floorNumber);
