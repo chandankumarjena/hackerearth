@@ -11,10 +11,10 @@ import java.io.InputStreamReader;
  * according to his constraints mark
  * example:-
  * inputs
- * 5 -number of friend
- * 100- asking skill total
- * 110- first friend
- * 130- second friend
+ * 5 - number of friends
+ * 100 - asking skill total
+ * 110 - first friend
+ * 130 - second friend
  * 90 - third friend
  * 100 - fourth friend
  * 45 - fifth friend
