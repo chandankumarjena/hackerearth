@@ -14,7 +14,7 @@ public class MagicalWord {
         int pd = 0;
         int nd = 0;
         
-        while(testCases -- >0)
+        while(testCases-- > 0)
         {
         	String res = "";
             int length = Integer.parseInt(bufferedReader.readLine());
