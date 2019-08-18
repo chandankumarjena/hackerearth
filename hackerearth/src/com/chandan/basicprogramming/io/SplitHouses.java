@@ -25,6 +25,7 @@ public class SplitHouses {
         else {
             System.out.println("NO");
         }
+
 	}
 
 }
