@@ -10,18 +10,15 @@ public class MagicalWord {
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 		int p[] = {67,71,73,79,83,89,97,101,103,107,109,113};
 		int testCases = Integer.parseInt(bufferedReader.readLine());
-        int length = 0;
-        String st ;
-        String res;
         int it = 0;
         int pd = 0;
         int nd = 0;
         
         while(testCases -- >0)
         {
-            res = "";
-            length = Integer.parseInt(bufferedReader.readLine());
-            st = bufferedReader.readLine();
+        	String res = "";
+            int length = Integer.parseInt(bufferedReader.readLine());
+            String st = bufferedReader.readLine();
             for(int i=0;i<length;i++)
             {
             	
